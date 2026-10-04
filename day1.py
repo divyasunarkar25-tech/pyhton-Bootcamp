@@ -1,0 +1,5 @@
+print("Name: Divya")
+print("City: Bijapur")
+print("Favourite food: Pizza")
+print("Hobby: Building websites")
+print("I hope to learn: Python")
